@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-FREE FIRE ENDPOINT DISCOVERY & CAPTURE PROXY
-Automatically discovers and captures ALL Free Fire endpoints
-No hardcoded endpoints - dynamically learns them
-"""
-
 import os
 import sys
 import json
